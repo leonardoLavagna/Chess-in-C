@@ -9,7 +9,7 @@ To compile the programs (in a command line) write `g++ colore.cpp scacchiera.cpp
 ### What's in here?
 
 - all the scrpits that are needed to implement the game of chess (e.g. `Casella.cpp` implement the cells in the chessboard and `casella.h` is the related library)
-- all the libraries needed to execute the scripte
+- all the libraries needed to execute the scripts
 - an example of a game (i.e. a text file with all the moves you can try)
 - an executable file `scacchi` you can (hopefully) use to play directly without compiling every script and library
 
