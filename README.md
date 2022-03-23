@@ -1,7 +1,5 @@
 # Chess-in-C
 
-![standardboard copia](https://user-images.githubusercontent.com/91341004/159731606-d11404d9-c949-4275-9750-56e5ff10c799.png)
-
 
 I've found a long script in C (C++) where I've implemented (many years ago) the game of chess from scratch (e.g. definition of the chessboard, the pieces, the moves) and I felt like sharing it. I was given many important suggestions and hints, and, if I remember correctly, behind many parts of the code there was the invisible and wise hand of Ivano Salvo. 
 
