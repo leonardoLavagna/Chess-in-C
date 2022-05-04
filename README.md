@@ -5,7 +5,7 @@ I've found a long script in C (C++) where I've implemented (many years ago) the 
 
 It is possible to play a game by compiling the scripts and libraries in this repository. There is no graphic, though, and only the list of moves is produced. Ofcourse nowdays, with AI and all, the programming techniques used in implementing the game of chess are different and more advanced, but I think it can be a good idea to see how things can be done from scratch.
 
-To compile the programs (in a command line) write `g++ colore.cpp scacchiera.cpp pezzi.cpp scacchi.cpp -o chess` (generates the “chess” executable), and use the so created executable `chess` file to play (or you can try to use the corresponding executable file in this repository, but there can be compatibility issues).
+To compile the programs (in a command line) write `g++ colore.cpp scacchiera.cpp pezzi.cpp scacchi.cpp -o chess` (generates the “chess” executable), and use the so created executable `chess` file to play (or you can try to use the corresponding `scacchi` executable file in this repository, but there can be compatibility issues).
 
 ### What's in here?
 
